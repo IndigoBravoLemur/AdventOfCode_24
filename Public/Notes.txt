@@ -1,0 +1,5 @@
+Parsing text in powershell
+https://devblogs.microsoft.com/powershell/parsing-text-with-powershell-1-3/
+
+Base Template of powershell script
+https://thesysadminchannel.com/powershell-template/#PowershellTemplate
